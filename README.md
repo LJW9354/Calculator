@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 We need to install PyQt5
 
 ```
-pip3 install PyQt5
+python -m pip install pyqt5
 ```
 You can download it in [PyQt5](https://www.riverbankcomputing.com/software/pyqt/download)
 
