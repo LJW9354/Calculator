@@ -25,9 +25,10 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **studyingrabbit** - *Initial work* - [studyingrabbit](https://studyingrabbit.tistory.com/)
+* **Seungho Yoo** - *Init repository* - this repository
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/shyoo17/gui_calculator/blob/main/CONTRIBUTORS.md) who participated in this project.
 
 ## License
 
