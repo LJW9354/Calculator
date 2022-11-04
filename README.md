@@ -13,7 +13,7 @@ We need to install PyQt5
 ```
 python -m pip install pyqt5
 ```
-You can download it in [PyQt5](https://www.riverbankcomputing.com/software/pyqt/download)
+You also can download it in [PyQt5](https://www.riverbankcomputing.com/software/pyqt/download)
 
 ## Built With
 
