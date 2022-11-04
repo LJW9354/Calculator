@@ -17,7 +17,7 @@ You can download it in [PyQt5](https://www.riverbankcomputing.com/software/pyqt/
 
 ## Built With
 
-* [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro)
+* [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro) - The GUI framework used
 
 ## Contributing
 
