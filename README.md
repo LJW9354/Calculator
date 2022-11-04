@@ -8,11 +8,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+We need to install PyQt5
 
 ```
 pip3 install PyQt5
 ```
+You can download it in [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro)
 
 ### Installing
 
