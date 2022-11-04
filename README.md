@@ -26,9 +26,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 ## Authors
 
 * **studyingrabbit** - *Initial work* - [studyingrabbit](https://studyingrabbit.tistory.com/)
-* **Seungho Yoo** - *Init repository* - this repository
-
-See also the list of [contributors](https://github.com/shyoo17/gui_calculator/blob/main/CONTRIBUTORS.md) who participated in this project.
+* **JaeWon Lee** - *Init repository* - this repository
 
 ## License
 
